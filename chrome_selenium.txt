@@ -1,0 +1,8 @@
+Notes
+
+- install requirements.apt
+- install google-chrome-stable
+- install node v10 or up
+- install chromedriver
+- install selenium-side-runner via npm
+- https://hub.docker.com/r/justinribeiro/chrome-headless/
