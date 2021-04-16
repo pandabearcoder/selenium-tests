@@ -1,6 +1,6 @@
 ### Headless selenium setup
 
-- Credits to [https://github.com/yukinying/chrome-headless-browser-docker](yukinying)
+- Credits to [yukinying](https://github.com/yukinying/chrome-headless-browser-docker)
 
 
 #### Build image from Dockerfile
